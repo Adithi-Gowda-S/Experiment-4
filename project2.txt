@@ -1,1 +1,6 @@
+<<<<<<< Updated upstream
 Feature work
+=======
+Initial content
+This is unfinished work
+>>>>>>> Stashed changes
